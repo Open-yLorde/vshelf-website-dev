@@ -1,0 +1,25 @@
+html, body {
+    background-color: #0c0c12;
+    background: #0c0c12;
+    margin: 0 auto;
+    /* padding: 1px; */
+    /* box-sizing: border-box; */
+    font-family: "Montserrat", sans-serif;
+    scrollbar-width: thin;
+    scrollbar-color: #2a2a3c #1a1a26;
+    user-select: none;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.animate-fadeIn {
+  animation: fadeIn 0.25s ease-out;
+}

@@ -1,0 +1,28 @@
+Sitemap: https://beta.vshelf.app/sitemap.xml
+
+User-agent: *
+
+Allow: /
+Allow: /home
+Allow: /pagina-inicial
+Allow: /inicio
+
+Allow: /download
+Allow: /baixar
+
+Allow: /discord
+Allow: /dc
+
+Allow: /login
+Allow: /entrar
+Allow: /register
+Allow: /registro
+
+Allow: /titulo/adicionar
+Allow: /titulo/add
+Allow: /title/add
+Allow: /title/new
+Allow: /adicionar-titulo
+Allow: /adicionar-novo-titulo
+Allow: /new-title
+Allow: /add-new-title
